@@ -17,3 +17,4 @@ print("Unsorted Numbers is : " , numbers)
 sorted_numbers = quick_sort(numbers)
 
 print("Sorted Numbers: " , sorted_numbers)
+print("this is the quick sort algorithm , need to know how to work")
